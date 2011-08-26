@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
-  s.name = "i18n_routing"
-  s.version = "0.4.7"
-  s.author = "Guillaume Luccisano"
+  s.name = "fishman-i18n_routing"
+  s.version = "0.4.9"
+  s.author = "Guillaume Luccisano, Reza Jelveh"
   s.email = "guillaume.luccisano@gmail.com"
   s.homepage = "http://github.com/kwi/i18n_routing"
   s.summary = "I18n routing module for Rails 2.3.x and Rails 3. Translate your routes with ease !"
